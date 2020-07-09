@@ -1,0 +1,19 @@
+[Song]
+{
+	Name = "Louder!! Louder!!!! Louder!!!!!!"
+	Artist = "The Quick Brown Fox"
+	Year = "2018"
+	Resolution = 600
+}
+[SyncTrack]
+{
+	0 = B 100000
+	0 = TS 4
+}
+[Events]
+{
+}
+[ExpertSingle]
+{
+	25343 = N 2 998
+}

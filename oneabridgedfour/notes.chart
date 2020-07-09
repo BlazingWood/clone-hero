@@ -1,0 +1,40 @@
+[Song]
+{
+	Name = "One (Abridged) (Abridged) (Abridged) (Abridged)"
+	Artist = "Metallica"
+	Year = " "
+	Player2 = Bass
+	ArtistText = "by"
+	Offset = 0
+	CountOff = "sticks_tiny"
+	GuitarVol = 0
+	BandVol = 0
+	HoPo = 0
+	OriginalArtist = false
+	Resolution = 480
+}
+[SyncTrack]
+{
+	0 = B 120000
+	0 = TS 4
+}
+[Events]
+{
+	2880 = E "end"
+}
+[EasySingle]
+{
+	-1440 = N 0 0
+}
+[MediumSingle]
+{
+	-1440 = N 0 0
+}
+[HardSingle]
+{
+	-1440 = N 0 0
+}
+[ExpertSingle]
+{
+	-1440 = N 0 0
+}

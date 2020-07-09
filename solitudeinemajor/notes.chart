@@ -1,0 +1,45 @@
+[Song]
+{
+	Name = "Solitude in E Minor"
+	Artist = "Squidward Testicles"
+	Year = " "
+	Player2 = Bass
+	ArtistText = "by"
+	Offset = 0
+	CountOff = "sticks_tiny"
+	GuitarVol = 0
+	BandVol = 0
+	HoPo = 0
+	OriginalArtist = false
+	Resolution = 480
+}
+[SyncTrack]
+{
+	0 = B 5000000
+	0 = TS 9999
+}
+[Events]
+{
+	0 = E "section yeah_e_minor_alright_yeah"
+	357120 = E "end"
+}
+[EasySingle]
+{
+	291840 = N 0 23000
+	314880 = N 1 42200
+}
+[MediumSingle]
+{
+	291840 = N 0 23000
+	314880 = N 1 42200
+}
+[HardSingle]
+{
+	291840 = N 0 23000
+	314880 = N 1 42200
+}
+[ExpertSingle]
+{
+	291840 = N 0 23000
+	314880 = N 1 42200
+}

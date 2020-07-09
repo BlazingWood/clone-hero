@@ -1,0 +1,43 @@
+[Song]
+{
+	Name = "You Suffer"
+	Artist = "Napalm Death"
+	Year = ", 1987"
+	Offset = 0
+	Resolution = 192
+	Player2 = bass
+	Difficulty = 0
+	PreviewStart = 0.00
+	PreviewEnd = 0.00
+	Genre = "rock"
+	MediaType = "cd"
+	MusicStream = "song.ogg"
+	GuitarStream = "guitar.ogg"
+	BassStream = "rhythm.ogg"
+}
+[SyncTrack]
+{
+	0 = B 208332
+	960 = B 199999
+}
+[Events]
+{
+	960 = E "section But why ?"
+}
+[ExpertSingle]
+{
+	1152 = N 0 0
+	1152 = N 1 0
+	1152 = N 3 0
+	1248 = N 0 0
+	1248 = N 1 0
+	1248 = N 3 0
+	1344 = N 0 0
+	1344 = N 1 0
+	1344 = N 3 0
+	1440 = N 1 0
+	1440 = N 2 0
+	1440 = N 3 0
+	1536 = N 0 0
+	1536 = N 5 0
+}

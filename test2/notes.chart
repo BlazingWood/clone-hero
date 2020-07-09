@@ -1,0 +1,56 @@
+[Song]
+{
+  Name = "Impossible Xylophone"
+  Artist = "Noah Kuhn"
+  Charter = "nighth4wk"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "rock"
+  MediaType = "cd"
+  MusicStream = "C:\Users\Noah\Music\impsxylo.ogg"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 104000
+}
+[Events]
+{
+}
+[ExpertSingle]
+{
+  0 = N 0 0
+  24 = N 1 0
+  48 = N 2 0
+  72 = N 1 0
+  96 = N 2 0
+  120 = N 3 0
+  144 = N 2 0
+  168 = N 3 0
+  192 = N 4 0
+  216 = N 0 0
+  240 = N 1 0
+  264 = N 2 0
+  288 = N 1 0
+  312 = N 2 0
+  336 = N 3 0
+  384 = N 0 0
+  408 = N 1 0
+  432 = N 2 0
+  456 = N 1 0
+  480 = N 2 0
+  504 = N 3 0
+  528 = N 2 0
+  552 = N 3 0
+  576 = N 4 0
+  600 = N 0 0
+  624 = N 1 0
+  648 = N 2 0
+  672 = N 1 0
+  696 = N 2 0
+  720 = N 3 0
+}
