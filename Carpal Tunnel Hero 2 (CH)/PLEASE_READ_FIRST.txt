@@ -1,0 +1,94 @@
+Hey there! if you see this means you have officially downloaded the Carpal Tunnel Hero 2 setlist,
+to play Carpal Tunnel Hero 2 setlist the way it was intended (after you dragged and dropped the folder into your songs folder)
+
+go to the clone hero main menu and then go to "settings" and then scroll down until you see "show full playlist"
+- enable "show full playlist"
+now when in your song library hit yellow until you have it sorted by playlist
+- hit blue on your controller and the search bar will come up
+Search for "Carpal Tunnel Hero 2"
+
+setlist starts with the introduction tier :) 
+-----------------------------------------------------------------------------------------------------------------------
+
+Carpal Tunnel Hero (Clone Hero Leaderboard)
+(work in progress)
+https://docs.google.com/spreadsheets/d/14yB60YhdatPfsoJO8GPzvh9vo09FrMVFxk5yIYxrf8Y/edit#gid=0
+
+You may submit video or picture proof (screenshots of your scores after you play them)
+to: jdurand11143#3492 on discord!
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+This setlist wouldn't have also been possible with the combination of help between the awesome human beings.
+Please show them some love by subscribing to them!:
+
+Chemfinal:--------------------
+https://www.youtube.com/channel/UCRy6ZBCyXUJWIZfeEMbqzsw
+
+Miscellany:-------------------
+https://www.youtube.com/channel/UCCeuYydVn2Ua-c6nIJ1rt6NA
+
+ShadeGH:----------------------
+https://www.youtube.com/user/TheShadesterz
+
+Rek3dge:----------------------
+https://www.youtube.com/channel/UCXFjBWJ10JeqselqZxa78dA
+
+xX760Xx:----------------------
+https://www.youtube.com/user/RandomIP
+
+Gabepls:----------------------
+https://www.youtube.com/channel/UCalDa16bMNLD3IIp7aNa86g
+
+Captaintoasty:----------------
+https://www.youtube.com/channel/UCSZxdaBm4_lKZyDi5XSTMvg
+
+GanonMetroid:-----------------
+https://www.youtube.com/user/GanonMetroid
+
+CyclopsDragon:----------------
+https://www.youtube.com/user/CyclopsDragon
+
+ChezyGH3:---------------------
+https://www.youtube.com/user/ChezyGH3
+
+GHX:--------------------------
+https://www.youtube.com/user/GuiTaRHeRo37170
+
+and me:----------------------------------
+https://www.youtube.com/user/jdurand11143
+https://www.twitch.tv/jdurand11143
+https://twitter.com/jdurand11143
+
+and all the others who submitted a few songs! (you know who you are)
+
+
+if you have any questions please let us know and also tell us if you enjoy the setlist!
+We hope to see all you guys having fun playing our new charts!
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+
+-------------------------------------------------------------------------
+If you'd like to have the charters name show up on your stream 
+along with the current song, make sure to enable streamer settings and 
+Also, enable "export current song" close out of clone hero
+
+
+go to your root clone hero folder, and click on the "settings"
+ini file
+
+under "custom_song_export" write
+
+"custom_song_export = %s%n%a%n(%c)"
+
+it will look like something like this in obs
+Song name
+Artist
+(Charter name)
+
+
+This will allow the charts name to show up
+Under the artist name, file save and restart 
+clone hero, and it should work :)

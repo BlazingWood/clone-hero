@@ -1,0 +1,9 @@
+Hello everybody, here's Miscellany.
+
+Here are the things you need to know about the files here.
+
+_"notes.chart" need to be used Guitar Hero III (with the GH3+ hack) and Clone Hero.
+
+_album.png is the album cover of the song, which can shows up in Phase Shift & Clone Hero.
+
+_song.ini contains informations about the song. This file is used by Phase Shift & Clone Hero. It show the following informations : song name, band, genre, album, track difficulty and the charter who made the chart.
